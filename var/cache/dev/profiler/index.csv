@@ -1,0 +1,14 @@
+5cf3ef,::1,GET,http://localhost:8888/rest_symfony/web/app_dev.php/results?search=test,1512388417,,200
+2a54f5,::1,GET,http://localhost:8888/rest_symfony/web/app_dev.php/api/doc,1512388430,,200
+d97444,::1,GET,http://localhost:8888/rest_symfony/web/app_dev.php/api/doc,1512388534,,200
+e4cb9d,::1,GET,http://localhost:8888/rest_symfony/web/app_dev.php/api/doc,1512388579,,200
+a2b025,::1,GET,http://localhost:8888/rest_symfony/web/app_dev.php/results?search=test,1512389256,39c127,500
+39c127,::1,GET,http://localhost:8888/rest_symfony/web/app_dev.php/results?search=test,1512389256,,500
+346a19,::1,GET,http://localhost:8888/rest_symfony/web/app_dev.php/results?search=test,1512389385,a16353,500
+a16353,::1,GET,http://localhost:8888/rest_symfony/web/app_dev.php/results?search=test,1512389385,,500
+82c246,::1,GET,http://localhost:8888/rest_symfony/web/app_dev.php/results?search=test,1512389707,6402cd,200
+6402cd,::1,GET,http://localhost:8888/rest_symfony/web/app_dev.php/results?search=test,1512389707,,500
+ca793e,::1,GET,http://localhost:8888/rest_symfony/web/app_dev.php/results?search=test,1512389789,,200
+1e3bb7,::1,GET,http://localhost:8888/rest_symfony/web/app_dev.php/results?limit=25&page=2&search=code,1512390113,,200
+fe5d74,::1,GET,http://localhost:8888/rest_symfony/web/app_dev.php/results?limit=25&page=2&search=code,1512390334,,200
+dc8886,::1,GET,http://localhost:8888/rest_symfony/web/app_dev.php/api/doc,1512390596,,200

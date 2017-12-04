@@ -1,0 +1,3 @@
+oc_search_homepage:
+    path:     /
+    defaults: { _controller: OCSearchBundle:Default:index }

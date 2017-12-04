@@ -15,7 +15,8 @@ class Gitrepo
 {
     private $gitrepoClient;
     private $serializer;
-    private $token = '1b642b49bf27bfbdaec4a23b06071630154d0410';
+    // For security reasons, not displaying my own key :-)
+    private $token = 'XXXX';
 
     public function __construct(Client $gitrepoClient, Serializer $serializer)
     {

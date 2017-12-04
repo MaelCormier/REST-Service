@@ -1,6 +1,7 @@
 # REST-Service
 
 Built with Symfony 3
+Bundles : FOSRest, Nelmio ApiDoc, PagerFanta. 
 
 Production-ready simple REST API for searching in all Github code.
 
